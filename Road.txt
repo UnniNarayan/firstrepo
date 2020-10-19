@@ -1,0 +1,40 @@
+ Bitter Lime
+Bitter Lime
+7 months ago
+TLDR;
+
+
+1. Gain Python/R expertise
+2. Libraries:
+ NumPy - Library, Indexing, Basic operation on Arrays, reshaping, broadcasting arrays, etc.
+ Pandas - In-depth understanding of Data pre-processing. Dataframes/Data series. Feature engineering.
+3. Statistics:
+ Mean, Median, Mode
+ Normal and Standard distributions
+ Correlations
+ And all possible basic concepts that you could think of
+ No need to byheart formulas
+4. Visualization libraries
+ - MatPlotLib
+ - Seaborn
+5. Hands-on Exploratory Data analysis(EDA) - Try to find as much information from a given data set.
+ - Scaling down data - MinMax, Standard, LogNormal
+ - Record observations
+6. Understanding ML algos: 15-20
+ - Understand theoretical concept + mathematically
+7. Deployment:
+ - Deployment techniques on popular Public Cloud
+ - Flask & Django
+ - 
+8. Deep Learning
+ - 3 basic Neural Algos: Aritifical(ANN),Convolutional(CNN) & Recurrent(RNN)
+ - Advanced learning on CNN
+ - Deployment
+ - Popular libraries like TensorFlow, Keras, Pytorch
+9. Databases:
+ - SQL for structured data
+ - MongoDB for unstructured data
+10. Visualization:
+ - PowerBI
+ - Tableau
+ - Qlik Sense 
